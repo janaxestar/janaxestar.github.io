@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://janaxestar.github.io/sitemap.xml
