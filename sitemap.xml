@@ -1,22 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+<!-- HOMEPAGE -->
 <url>
   <loc>https://janaxestar.github.io/</loc>
-  <lastmod>2023-03-28T00:54:57+00:00</lastmod>
+  <lastmod>2026-04-29</lastmod>
   <priority>1.00</priority>
 </url>
+
+<!-- SERVICES -->
 <url>
-  <loc>https://janaxestar.github.io/index.html</loc>
-  <lastmod>2023-03-28T00:54:57+00:00</lastmod>
+  <loc>https://janaxestar.github.io/services/knee-replacement.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.90</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/services/hip-replacement.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.90</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/services/trauma-fracture.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.90</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/services/spine-treatment.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.90</priority>
+</url>
+
+<!-- BLOGS -->
+<url>
+  <loc>https://janaxestar.github.io/blog/knee-pain-treatment-visakhapatnam.html</loc>
+  <lastmod>2026-04-29</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://janaxestar.github.io/blog/best-knee-replacement-surgeon-vizag.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/blog/when-to-see-orthopedic-doctor.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/blog/arthritis-treatment-visakhapatnam.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/blog/shoulder-pain-treatment-vizag.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/blog/spine-treatment-visakhapatnam.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/blog/sports-injury-treatment-vizag.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/blog/fracture-treatment-visakhapatnam.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/blog/hip-replacement-surgery-vizag.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://janaxestar.github.io/blog/best-orthopedic-doctor-visakhapatnam.html</loc>
+  <lastmod>2026-04-29</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
